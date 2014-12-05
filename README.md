@@ -5,4 +5,4 @@ ZABBIX中文简体的汉化语言包
 
 
 
-由[ZABBIX中文社区](http://www.zabbix.org.cn)整理
+由[ZABBIX中文社区](http://www.zabbix.org.cn)整理翻译
