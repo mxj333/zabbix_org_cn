@@ -22,4 +22,5 @@ ZABBIX中文简体的汉化语言包
 基于zabbix2.4进行的翻译
 
 详细信息请参阅 [zabbix](http://www.zabbix.com)
+
 zabbix在线文档：http://www.zabbix.com/documentation/2.0/manual/installation/install
