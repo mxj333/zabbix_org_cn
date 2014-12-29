@@ -8,7 +8,9 @@ ZABBIX中文简体的汉化语言包
 1、修改 include/ locales.inc.php 文件里面的：
 
 'zh_CN' => array('name' => _('Chinese (zh_CN)'),        'display' => false),
+
 为
+
 'zh_CN' => array('name' => _('Chinese (zh_CN)'),        'display' => true),
 
 2、进入用户配置界面，选择zh_CN即可。
